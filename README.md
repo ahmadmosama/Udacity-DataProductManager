@@ -52,3 +52,20 @@ Start With the Template Flyber Data Strategy.
 All project instructions details are included in this file. There are also links to the data files you would need to complete part 3 and the optional part 5. These files can also be downloaded from the Project Resources section of the classroom.
 
 Section 1 and 2 focus on stakeholders and what data they need. Section 3, 4, 5, and 6 focus on understanding the scalability needs. Section 7 is all about suggesting a Data Infrastructure strategy based on analysis of all the previous sections.
+
+
+PART III:
+
+Iterative Design & The Future of Flyber: A Path Forward
+In the past 6 months, your team worked tirelessly to launch the first flying car app, Flyber, to customers across New York City. The app has been something of a steep hit with the core group of flyers you launched with.
+
+You've decided it's time to step up and lay out a plan for how you're going to identify paths forward which give you the best chance at success. You pitch the team on an iterative design process that brings qualitative and quantitative techniques together in order to minimize industry-standard risk types so that you can move forward confidently.
+
+An image showing examples of Flyber multivariate tests
+First, you'll identify KPIs for Flyber and explain why these should be the key metrics for the company to focus on moving forward.
+
+Someone in your company recently learned about experiments, so they ran an unofficial multivariate experiment without putting much thought into what they were testing. They launched three new landing pages, but they aren't sure if they saw a significant (and experimentally valid) lift in the rate of ride booking from this unofficial multivariate experiment. They came to you for your product management and data science expertise. To begin your iterative design program on the right foot and gain buy-in, you'll need the data collected during the multivariate testing and let your colleagues know if this experiment had any effect on the percent of users booking rides.
+
+Once you've provided your recommendations, you need to run some funnel and segment analyses before you launch the next experiment to the site so your team has the best chance of success. Luckily, you helped build data instrumentation into each part of the Flyber app. You and the data scientists on your team have some event logs to dig through. You can analyze the Flyber intake funnel, compare trip booking rates among different demographic segments, and look for any areas to improve. You also have qualitative interviews from 20 typical riders to re-examine in light of the funnel data. Between the quantitative and qualitative data available, you're sure you can hypothesize ways to make the Flyber app even more successful!
+
+You tell the CEO that you're going to summarize what's known and propose a path forward which is iterative and gives you the best chance of moving the needle. For the final part of this project, you'll create a presentation of your findings and present ideas for the next multivariate tests that Flyber should run.
